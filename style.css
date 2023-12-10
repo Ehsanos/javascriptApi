@@ -1,0 +1,90 @@
+.title{
+    text-align: center;
+}
+
+.section{
+background-color:coral ;
+    width: 90%;
+    margin: auto;
+text-align: center;
+    padding: 10px;
+border-radius: 20px;
+}
+
+.section-comments{
+    background-color: #d2f36c;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+hr{
+    color: white;
+    height: 2px;
+    width: 70%;
+}
+li {
+   list-style: none;
+    color: white;
+}
+li:hover{
+
+}
+
+p{
+    color: black;
+}
+
+:hover{
+    cursor: grab;
+}
+.add-div {
+
+    background-color: #f1ab92;
+    width: 70%;
+    margin: auto;
+    height: 400px;
+    border-radius: 20px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.title-post {
+    margin: 0;
+    height: 25px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+
+.post-body {
+
+    height: 150px;
+    width: 80%;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+
+}
+
+form {
+    width: 80%;
+}
+
+
+.send-btn {
+    height: 33px;
+    width: 70px;
+    border-radius: 10px;
+    border: none;
+    color: #de694a;
+}
+a{
+    text-decoration: none;
+}
